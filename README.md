@@ -5,4 +5,6 @@ I'm a passionate full-stack Java developer with a love for crafting clean, effic
 ![68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966](https://github.com/sumanth335/sumanth335/assets/122939962/115d8d1c-b79b-43bd-b532-c8a55f137b66)
 
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
