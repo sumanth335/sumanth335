@@ -6,7 +6,7 @@ I'm a passionate full-stack Java developer with a love for crafting clean, effic
 
 ## Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,angular,spring,mysql,postgresql,mongodb,cassandra,aws,kafka,splunk,postman,python,maven,gradle,jenkins,docker,kubernetes,git,github,gitlab,visualstudio)
+![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,angular,spring,mysql,postgresql,mongodb,cassandra,aws,kafka,postman,python,maven,gradle,jenkins,docker,kubernetes,git,github,gitlab,visualstudio)
 
 
 
