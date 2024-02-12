@@ -6,6 +6,7 @@ I'm a passionate full-stack Java developer with a love for crafting clean, effic
 
 ## Languages and Tools:
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
 
 <p align="center">
   <a href="https://skillicons.dev">
