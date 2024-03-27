@@ -5,7 +5,6 @@ I'm a passionate full-stack Java developer with a love for crafting clean, effic
 * 🔭 I'm currently working as Full Stack Java Developer.
 * 🌱 I’m continuously learning and exploring new technologies to enhance my skills.
 * 💬 Ask me about Java, Spring Boot, React, Angular and related to full-stack development technologies!
-* 📫 You can reach me at basik.sumanth@gmail.com or connect with me on LinkedIn.
 * 😄 Fun fact: I'm an avid hiker and love exploring nature trails on weekends.
 
   
